@@ -1,0 +1,31 @@
+Conceptual
+
+we met to discuss our project.
+we froze on LMS
+project outline
+abstract
+Establish the entities
+no software tools
+
+
+logical
+
+Improve the conceptual model
+added attributes
+defined our primary keys
+data types
+database independent
+
+
+physical
+
+Oracle sql database
+added foreign keys
+added relationships
+
+
+***
+
+challenge
+
+location
